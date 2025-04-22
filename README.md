@@ -1,1 +1,1 @@
-# inventory-tracker-backend
+# inventory-management-system-backend
