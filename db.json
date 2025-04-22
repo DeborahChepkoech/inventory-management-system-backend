@@ -1,0 +1,17 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "quantity": 10,
+        "location": "Warehouse A"
+      },
+      {
+        "id": 2,
+        "name": "Keyboard",
+        "quantity": 25,
+        "location": "Warehouse B"
+      }
+    ]
+  }
+  
