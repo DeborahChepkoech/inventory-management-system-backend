@@ -1,17 +1,34 @@
 {
-    "items": [
-      {
-        "id": 1,
-        "name": "Laptop",
-        "quantity": 10,
-        "location": "Warehouse A"
-      },
-      {
-        "id": 2,
-        "name": "Keyboard",
-        "quantity": 25,
-        "location": "Warehouse B"
-      }
-    ]
-  }
-  
+  "items": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "category": "Electronics",
+      "quantity": "20"
+    },
+    {
+      "id": "2",
+      "name": "Chair",
+      "category": "Furniture",
+      "quantity": 25
+    },
+    {
+      "id": "3",
+      "name": "Mouse",
+      "category": "Electronics",
+      "quantity": 100
+    },
+    {
+      "id": "4",
+      "name": "Desk",
+      "category": "Furniture",
+      "quantity": 15
+    },
+    {
+      "id": "342e",
+      "name": "Benz",
+      "category": "Automotive",
+      "quantity": "3"
+    }
+  ]
+}
