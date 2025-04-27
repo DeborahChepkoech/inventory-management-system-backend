@@ -7,12 +7,6 @@
       "quantity": "20"
     },
     {
-      "id": "2",
-      "name": "Chair",
-      "category": "Furniture",
-      "quantity": 25
-    },
-    {
       "id": "3",
       "name": "Mouse",
       "category": "Electronics",
@@ -25,10 +19,10 @@
       "quantity": 15
     },
     {
-      "id": "342e",
-      "name": "Benz",
-      "category": "Automotive",
-      "quantity": "3"
+      "id": "8b94",
+      "name": "table",
+      "category": "Furniture",
+      "quantity": "15"
     }
   ]
 }
